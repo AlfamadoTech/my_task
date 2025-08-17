@@ -1,4 +1,4 @@
-# Student Profile Builder
+# Student Profile Builder Information
 student_name = input("Enter student's full name: ")
 student_age = int(input("Enter student's age: "))
 student_gender = input("Enter gender (Male/Female): ")
