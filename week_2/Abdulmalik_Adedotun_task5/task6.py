@@ -1,4 +1,4 @@
-# Attendance Tracker
+# Attendance Tracker1
 days = ("Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday")
 months = ("January", "Febuary", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December")
 
