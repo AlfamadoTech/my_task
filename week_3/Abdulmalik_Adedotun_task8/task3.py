@@ -13,4 +13,5 @@ print(pick_item)
 cart_total += pick_item["book"]
 cart_total += pick_item["pen"]
 cart_total += pick_item["bag"]
+cart_total += pick_item["flask"]
 print(f"you picked\n {item1}books\n{item2} pens\n{item3} bags\n{item4} flask\nTotal Price: {cart_total}")
